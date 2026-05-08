@@ -1,0 +1,74 @@
+1. Complete as lacunas:
+ O __________ é uma técnica de engenharia social que visa enganar o usuário para que ele revele informações pessoais, como senhas e dados de cartão de crédito. Já o __________ é um tipo de malware que criptografa arquivos do usuário e exige um resgate para recuperar o acesso aos arquivos.
+2. Verdadeiro ou falso: 
+Os ataques de negação de serviço (DDoS) visam expor informações confidenciais.
+
+3. Escolha a opção correta: 
+O que é engenharia social?
+a) Uma técnica para criptografar dados sensíveis 
+b) Uma técnica para descriptografar dados sensíveis 
+c) Uma técnica para enganar os usuários e obter informações pessoais ou acesso a sistemas e redes.
+
+4. Verdadeiro ou falso: 
+Manter o software atualizado é uma boa prática para garantir a segurança digital.
+
+5. Complete as lacunas: 
+As senhas devem ser __________ e __________ para cada conta, evitando senhas comuns ou fáceis de adivinhar.
+
+6. O que é autenticação de dois fatores?
+a) Uma técnica para criar senhas mais complexas 
+b) Uma técnica para proteger a conexão com a internet 
+c) Uma técnica que exige que o usuário forneça uma segunda forma de autenticação além da senha.
+
+7. Verdadeiro ou falso: 
+Fazer backup regularmente é uma boa prática para garantir a segurança digital.
+
+8. Complete as lacunas: Uma VPN pode ser usada para proteger a conexão com a internet, criptografando o tráfego e ocultando o __________ do usuário.
+9. Qual é a diferença entre uma rede local (LAN) e uma rede de longa distância (WAN)?
+10. Cite três tipos de meios de comunicação utilizados em redes de computadores.
+11. O que é uma topologia de rede em estrela? Descreva suas principais características.
+12. Qual é o protocolo mais utilizado na internet? O que significa TCP/IP?
+13. Quais são os principais softwares utilizados para gerenciar redes de computadores?
+14. O que é um firewall e para que ele é utilizado em redes de computadores?
+15. Quais são as medidas de segurança mais importantes para proteger uma rede de computadores?
+16. O que é um endereço IP e para que ele é utilizado em redes de computadores?
+17. Quais são as principais diferenças entre uma rede cabeada e uma rede sem fio?
+18. Descreva a topologia de rede em anel e cite uma vantagem e uma desvantagem em relação à topologia em estrela.
+19. Quais são os dois tipos principais de protocolos de roteamento? 
+20. Quais são algumas das desvantagens dos protocolos de roteamento de vetor de distância? 
+21. Quais são algumas das vantagens dos protocolos de roteamento de estado de link? 
+22. O que é o protocolo OSPF?
+23. Como o OSPF divide a rede?
+24. Qual é a finalidade do protocolo BGP?
+25. O que significa roteamento interdomínio?
+26. Quais são as métricas consideradas pelo BGP para determinar a melhor rota para o tráfego?
+27. Quais são os principais desafios associados ao uso do protocolo BGP?
+28. Qual dos seguintes é um exemplo de comutação de circuitos? 
+a) Rede Telefônica 
+b) Internet 
+c) Ambos 
+d) Nenhum
+
+29. Qual das seguintes afirmações é verdadeira para a comutação de pacotes? 
+a) Adequado para comunicações em tempo real 
+b) Ineficiente no uso de recursos 
+c) Variação na qualidade de serviço 
+d) Caminho dedicado entre emissor e receptor
+30. Qual protocolo é responsável por entregar pacotes de dados de um dispositivo para outro na Internet? 
+a) IP 
+b) TCP 
+c) UDP 
+d) HTTP
+31. Em qual tipo de comutação a conexão é estabelecida antes da comunicação começar e é mantida durante toda a comunicação? 
+a) Comutação de pacotes 
+b) Comutação de circuitos 
+c) Ambos 
+d) Nenhum
+32. Qual das seguintes afirmações é verdadeira para a comutação de circuitos? 
+a) Adequado para comunicações em larga escala 
+b) Variação na qualidade de serviço 
+c) Uso eficiente dos recursos 
+d) Qualidade de serviço garantida
+
+Gabarito:
+
