@@ -72,3 +72,67 @@ d) Qualidade de serviço garantida
 
 Gabarito:
 
+1. Phishing / Ransomware
+
+2. Falso
+
+3. c) Uma técnica para enganar os usuários e obter informações pessoais ou acesso a sistemas e redes.
+
+4. Verdadeiro
+
+5. Fortes e diferentes/únicas
+
+6. c) Uma técnica que exige que o usuário forneça uma segunda forma de autenticação além da senha.
+
+7. Verdadeiro
+
+8. Endereço IP
+
+9. LAN é uma rede local de pequena abrangência; WAN é uma rede de longa distância que conecta redes em diferentes locais.
+
+10. Cabo de par trançado, fibra óptica e ondas de rádio (Wi-Fi).
+
+11. Topologia em que todos os dispositivos se conectam a um dispositivo central (switch/hub). Fácil gerenciamento e isolamento de falhas.
+
+12. TCP/IP. TCP = Transmission Control Protocol; IP = Internet Protocol.
+
+13. Windows Server, Linux Server, Cisco IOS, Nagios, Zabbix.
+
+14. Sistema de segurança que monitora e controla o tráfego da rede, bloqueando acessos não autorizados.
+
+15. Firewall, antivírus, senhas fortes, atualização de sistemas, backups e autenticação em dois fatores.
+
+16. Identificador numérico de um dispositivo na rede, usado para comunicação entre dispositivos.
+
+17. Rede cabeada usa cabos e oferece maior estabilidade/velocidade; rede sem fio usa sinais Wi-Fi e oferece mobilidade.
+
+18. Dispositivos conectados em círculo. Vantagem: organização do tráfego. Desvantagem: falha em um ponto pode afetar toda a rede.
+
+19. Vetor de distância e estado de link.
+
+20. Convergência lenta, limitação de escalabilidade e possibilidade de loops de roteamento.
+
+21. Convergência rápida, maior precisão e melhor escalabilidade.
+
+22. Protocolo de roteamento de estado de link utilizado em redes IP.
+
+23. Divide a rede em áreas.
+
+24. Gerenciar o roteamento entre sistemas autônomos na Internet.
+
+25. Roteamento entre diferentes sistemas autônomos/redes.
+
+26. AS-Path, Next-Hop, Local Preference, MED e Weight.
+
+27. Complexidade de configuração, segurança e escalabilidade.
+
+28. a) Rede Telefônica
+
+29. c) Variação na qualidade de serviço
+
+30. a) IP
+
+31. b) Comutação de circuitos
+
+32. d) Qualidade de serviço garantida
+
